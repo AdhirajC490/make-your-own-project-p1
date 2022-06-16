@@ -1,0 +1,12 @@
+Astro Application - Phase 2
+
+The reason why I am making such an application is simple. I want people to get a basic idea of how the solar system 
+functions,afterall we are living in it. It would be a shame if we did not know how other planets are providing Earth with stability.
+The problem is a simple one , most people dont know the sequence of the planets let alone something about them so thats why
+I am making such an app.
+
+I will encounter various challenges while making this project for example I will have to figure out a way to zoom in via onpress function or other functions 
+for which I would have to research. I myself would also have to understand information about the planets and then find the required defeinations.
+The other problem would be the application would be heavy and would take time to load so I will have to change the frames not to load all at once but only the required once.
+Another problem which I doubt that no one has encountered is debugging the code various times and also looking for projects similar to this
+to get an idea of how the code functions.

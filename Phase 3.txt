@@ -1,0 +1,8 @@
+Astro App Phase 3
+
+Elements and wireframe:
+
+I would require the image tracking library, various gltf models , stylings, snack , marker based ar, location based ar.
+
+The app would start with the normal solar system which would be taken from the previous class's code, I would then add 
+various onpress and tracking functions so that when a planet is clicked the user gets information regarding the same and 
